@@ -1,11 +1,11 @@
 <html>
-<h2 align="center" style="color: red"> Oi, Eu sou o Ryan 🥶</h2>
+<h2 align="center"> Oi, Eu sou o Ryan 🥶</h2>
 
 ###
  
-<img align="right" height="200" width="200" style="border: 2px solid black" src="https://lh3.googleusercontent.com/wCsVqSi2bvLNAxvnIeTKuwwhAkEgFRWBh9UruhVn-CgEU0Su9o3xyOEOB3fQyt0_cCbq2doJwB-j12N8-eIdwNIxg9GtMBNqIFsomZ63SLm3nbSzzpTbYRHHOEWQsojCCnfPgJ5g4UvtRrQ8m-KTfIQlpeknjr87eMCdV78JldPHqfSfcVqjv5cJa8zr7wsr50zHRkE5NT8Xw13PizOsjE7UHlGf6U1Kz8PyRwGfN9Xp6yl-GLAPrH4uzvAULjNSzw60R-3K8LIYLVz0O5Kf0pMTMjzqI3CF12yVnm8zmX9zP2kmFprAsBgO9C91c5LIJCliaMPzrLiuE6bCVFJB9X12gmpYuYv7deaU6EAU84uKZ8Q9ezS5b7zez4-OTV30OHmyXLXalp-lOmPpKCZzXORrvF9XBT0FYIHDCxuCic8ZKsvWeYj_PyzPJfN5ztRftZnI4n8U4XNEMKyVf1ZHSQuAxlDALAou65POypl0ViSoVt4ZFSE6TlSxNVVP5O4mkN4Uz6RcsV739HwqLVtGSEiKMNx7xmyufeYhyBxrluMmHfkOsKh_XUIkBi0b4YMyN0J9CGmyrpTwpTurZHtPjMKngxIquSBd9aTjAn5RNTchjANOY3hvbQSKOx0P6BtLD6mYp7Dqgi4sjc1O8l9U7T9U2HwYLn7CFe7VDgtkUeA3WlpHzD3DKiWaiL-_EUEoLIElBcUyzDjL8gIVtfqtznfPveNPQ4e15uWZ4pPPk1XVpeDyc-v8hsFq6lJqYbM=w647-h749-no?authuser=0"/> 
+<img align="right" height="200" width="200" src="https://lh3.googleusercontent.com/wCsVqSi2bvLNAxvnIeTKuwwhAkEgFRWBh9UruhVn-CgEU0Su9o3xyOEOB3fQyt0_cCbq2doJwB-j12N8-eIdwNIxg9GtMBNqIFsomZ63SLm3nbSzzpTbYRHHOEWQsojCCnfPgJ5g4UvtRrQ8m-KTfIQlpeknjr87eMCdV78JldPHqfSfcVqjv5cJa8zr7wsr50zHRkE5NT8Xw13PizOsjE7UHlGf6U1Kz8PyRwGfN9Xp6yl-GLAPrH4uzvAULjNSzw60R-3K8LIYLVz0O5Kf0pMTMjzqI3CF12yVnm8zmX9zP2kmFprAsBgO9C91c5LIJCliaMPzrLiuE6bCVFJB9X12gmpYuYv7deaU6EAU84uKZ8Q9ezS5b7zez4-OTV30OHmyXLXalp-lOmPpKCZzXORrvF9XBT0FYIHDCxuCic8ZKsvWeYj_PyzPJfN5ztRftZnI4n8U4XNEMKyVf1ZHSQuAxlDALAou65POypl0ViSoVt4ZFSE6TlSxNVVP5O4mkN4Uz6RcsV739HwqLVtGSEiKMNx7xmyufeYhyBxrluMmHfkOsKh_XUIkBi0b4YMyN0J9CGmyrpTwpTurZHtPjMKngxIquSBd9aTjAn5RNTchjANOY3hvbQSKOx0P6BtLD6mYp7Dqgi4sjc1O8l9U7T9U2HwYLn7CFe7VDgtkUeA3WlpHzD3DKiWaiL-_EUEoLIElBcUyzDjL8gIVtfqtznfPveNPQ4e15uWZ4pPPk1XVpeDyc-v8hsFq6lJqYbM=w647-h749-no?authuser=0"/> 
 
-<div align="center" style="background-color: red">
+<div align="center">
   <img src="https://github-readme-stats.vercel.app/api?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&username=nayrgst" height="150" alt="stats graph"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&username=nayrgst" height="150" alt="languages graph"  />
 </div>
