@@ -24,7 +24,7 @@
   <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
 <a/>
 
-<a href="https://nayrgst.github.io/](https://portfolio-nayr.vercel.app/" target="_blank">
+<a href="https://portfolio-nayr.vercel.app/" target="_blank">
   <img src="https://img.shields.io/static/v1?message=Portfolio&logo=portfolio&label=&color=e53170&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
 <a/>
 </div>
