@@ -19,8 +19,6 @@
 ###
   
   <h1 align='center'>Projetos em Destaque</h1>
-[NOME DO PROJETO]
-[Descrição do projeto e seu propósito. Adicione uma imagem aqui para mostrar o projeto em ação!]
 - [Projeto 1](#)
 - [Projeto 2](#)
 - [Projeto 3](#)
